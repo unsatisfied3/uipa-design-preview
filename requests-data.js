@@ -95,7 +95,7 @@ const records = [
     "date": "Sept. 15, 2026, 10:54 a.m.",
     "jurisdiction": "County of Hawaii",
     "status": "Request partially successful",
-    "title": "Geothermal Relocation and Community Benefits Program "GRCBP"",
+    "title": "Geothermal Relocation and Community Benefits Program \"GRCBP\"",
     "url": "https://uipa.org/request/geothermal-relocation-and-community-benefits-program-grcbp/"
   },
   {
